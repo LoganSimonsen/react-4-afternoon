@@ -39,6 +39,7 @@ nav {
   padding: 25px 50px;
   font-family: 'Crimson Text', serif;
   display: flex;
+  
   justify-content: space-between;
   border-bottom: solid 1px #222;
   background: #143A56;
